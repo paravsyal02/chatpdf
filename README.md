@@ -32,7 +32,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/chatpdf.git
+   git clone https://github.com/paravsyal02/chatpdf.git
    ```
 
 2. Navigate to the project directory:
